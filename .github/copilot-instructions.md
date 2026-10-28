@@ -1,0 +1,1 @@
+Use TypeScript with Playwright Test. Keep page objects under `pages/` and tests under matching folders in `tests/`.
